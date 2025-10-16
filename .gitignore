@@ -22,3 +22,4 @@ qrc_*.cpp
 # Compiled files
 *.o
 *.obj
+REQUIREMENTS.md
