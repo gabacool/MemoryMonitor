@@ -1,0 +1,24 @@
+# Build directory
+build/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+*.app
+
+# Qt
+*.pro.user
+*.autosave
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# Compiled files
+*.o
+*.obj
